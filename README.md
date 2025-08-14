@@ -52,10 +52,6 @@ Demo: [https://tetris-react-one-omega.vercel.app/](https://tetris-react-one-omeg
    ```bash
    npm install
 
-4. 📦 **Install dependencies**
-   ```bash
-   npm install
-
 4. 🛠 **Run the project**:
    ```bash
    npm run dev
